@@ -1,0 +1,2 @@
+B:\CA\Computer_Architecture\RISC_V\src\x64\Debug\trydecode.exe
+B:\CA\Computer_Architecture\assignment 2\RISC_V\src\x64\Debug\trydecode.exe
